@@ -1,4 +1,4 @@
-# 1 - Import the data
+
 # 2 - Clean the data
 # 3 - Split data, Training set/ Test set
 # 4 - Create a model
